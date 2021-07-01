@@ -1,4 +1,4 @@
-/*
+U/*
  * To change this license header, choose License Headers in Project Properties.
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
@@ -80,5 +80,7 @@ public class Categorias extends HttpServlet {
     public String getServletInfo() {
         return "Short description";
     }// </editor-fold>
+
+//maneja los datos
 
 }
