@@ -10,6 +10,7 @@ public class FactoryConexionDB {
                 return new MySQLConexionFactory(configMySQL);
             default:
                 return null;
+// realiza conexion
         }
     } 
 }
