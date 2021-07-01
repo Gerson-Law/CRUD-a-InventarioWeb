@@ -9,4 +9,7 @@ public interface CategoriaDAO {
     public Categoria editarCat(int id_cat_edit);
     public boolean guardarCat(Categoria categoria);
     public boolean borrarCat(int id_cat_edit);
+
+
+//maneja la conexion
 }
