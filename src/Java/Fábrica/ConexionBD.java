@@ -60,6 +60,6 @@ public abstract class ConexionBD {
         return ok;  
     }
     
-    
+    // exporta las librerias nesesarias
     
 }
