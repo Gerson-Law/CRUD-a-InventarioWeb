@@ -37,6 +37,7 @@
         <link href="bots/css/estiloLogin.css" rel="stylesheet" type="text/css"/>
     </head>
     <body>
+//guardar informacion	    
         <div id="cuadro">
             <div id="cabeza"><center>Sign In</center></div>
             <div id="cuerpo"><form class="form-horizontal">
