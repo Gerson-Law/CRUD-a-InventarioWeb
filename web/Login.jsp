@@ -26,6 +26,7 @@
 	                    out.println("<script>alert('Usuario o contraseña incorrecta');</script>");
 	                }
 	            }
+//contenido		    
 %>
 <!DOCTYPE html>
 <html>
