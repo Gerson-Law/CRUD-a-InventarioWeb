@@ -45,6 +45,7 @@ public class Categoria {
 
     public void setEstado_categoria(int estado_categoria) {
         this.estado_categoria = estado_categoria;
+        // genera dos constructores
     }
     
     
