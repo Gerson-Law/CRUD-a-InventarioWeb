@@ -21,6 +21,7 @@ public final class MySQLConexionFactory extends ConexionBD {
        ex.printStackTrace();
        }
        return this.conexion;
+        // conecta la base de datos
     }
     
  
